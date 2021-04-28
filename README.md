@@ -2,12 +2,12 @@
 
 Welcome to our cloud computing section.
 
-##Part 1
+##Part 0
 
 0. Watch the [Cloud Computing Intro Video](https://www.youtube.com/watch?v=mxKpAxtefbc)
 1. Watch [Google Cloud Platform 101](https://www.youtube.com/watch?v=vmOMataJZWw&t=597s)
 
-##Part 2
+##Part 1
 
 Define the following Terms:
 0. Egress
@@ -20,7 +20,7 @@ Define the following Terms:
 7. kubernetes
 8. Cloud Native
 
-##Part 3
+##Part 2
 
 0. What is the difference between Service Level Agreement (SLA) and Service Level Objective (SLO)?
 1. What are 3 things to consider when choosing a public cloud provider?
