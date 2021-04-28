@@ -1,6 +1,6 @@
 # 07-intro-to-the-cloud
 
-Welcome to our cloud computing section.
+Welcome to our cloud computing section. I have good news and bad news for you. The bad news is that we are not meeting in person tonight. I will miss you all. The good news is that I've secretly been teaching you cloud computing this whole time. From 12 Factor applications to setting up your cloud workstations, you all have already been exposed to some of the main concepts of cloud computing. This week we will unpack those concepts even further. If you have any question or get stuck please reach out in the slack channel. Also, continue working on you capstones. 
 
 ##Part 0
 
